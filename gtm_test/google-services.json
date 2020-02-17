@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "50355879218",
+    "firebase_url": "https://test-5523c.firebaseio.com",
+    "project_id": "test-5523c",
+    "storage_bucket": "test-5523c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50355879218:android:a023846d6151294305eb2b",
+        "android_client_info": {
+          "package_name": "com.example.googletagmanagertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50355879218-up706a9r6hur0s7i1c2qb7srmh4keptd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googletagmanagertest",
+            "certificate_hash": "95649e12c9b8ef72eac25b033e7b0e35de6763de"
+          }
+        },
+        {
+          "client_id": "50355879218-1ls996dtvlfrj08bim93g059af0tpnt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXEL-LUPrlfP3bmDUXFUqNAHSba7BXHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50355879218-1ls996dtvlfrj08bim93g059af0tpnt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50355879218-3tjlper1jr4dnqbk87a5rc2gqo3f29d0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.host.medved-telemed-general"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50355879218:android:e9739f7c28aa7e2f05eb2b",
+        "android_client_info": {
+          "package_name": "com.host.medved_telemed_general"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50355879218-1ls996dtvlfrj08bim93g059af0tpnt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXEL-LUPrlfP3bmDUXFUqNAHSba7BXHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50355879218-1ls996dtvlfrj08bim93g059af0tpnt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50355879218-3tjlper1jr4dnqbk87a5rc2gqo3f29d0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.host.medved-telemed-general"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50355879218:android:82b21633b6807b4705eb2b",
+        "android_client_info": {
+          "package_name": "com.test.gtm_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50355879218-1ls996dtvlfrj08bim93g059af0tpnt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXEL-LUPrlfP3bmDUXFUqNAHSba7BXHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50355879218-1ls996dtvlfrj08bim93g059af0tpnt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "50355879218-3tjlper1jr4dnqbk87a5rc2gqo3f29d0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.host.medved-telemed-general"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
